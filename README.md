@@ -1,5 +1,11 @@
 # automatic-ssh-setup-windows
 
+## Description
+
+Sets up your ssh keys very easily in your project (on Windows) so that all you have to do is pull the public key from the ~/.ssh folder and upload it via your github profile settings page.
+
+This is great when you have multiple users on one computer that you would like to authorize commits over!
+
 ## Prerequisites
 
 Windows machine and Git bash installation. 
